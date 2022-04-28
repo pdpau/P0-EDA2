@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab0_students.dir/main.c.o CMakeFiles/lab0_students.dir/exercise1_p0.c.o CMakeFiles/lab0_students.dir/exercise2_p0.c.o CMakeFiles/lab0_students.dir/exercise3_p0.c.o CMakeFiles/lab0_students.dir/utils.c.o  -o lab0_students 

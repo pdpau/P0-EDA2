@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab0_students"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab0_students">
+				<Option output="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/lab0_students" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab0_students"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab0_students/fast">
+				<Option output="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/lab0_students" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab0_students/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/osboxes/Desktop/P0_254373_254382/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise1_p0.c">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise1_p0.h">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise2_p0.c">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise2_p0.h">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise3_p0.c">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/exercise3_p0.h">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/main.c">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/utils.c">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/utils.h">
+			<Option target="lab0_students"/>
+		</Unit>
+		<Unit filename="/home/osboxes/Desktop/P0_254373_254382/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

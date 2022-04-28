@@ -1,0 +1,4 @@
+/home/osboxes/tools/clion-2020.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/osboxes/Desktop/P0_254373_254382
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/osboxes/Desktop/P0_254373_254382/cmake-build-debug
